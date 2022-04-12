@@ -8,7 +8,7 @@ O jogo da cobrinha tem como objetivo atingir uma cobra de maior dimensão possí
 -_*_JS_*: Funcoes 
 
 ### Disponibilidade em 
-[GitHubPage]( https://github.com/GuilhermeCalonga/Snake_GuilhermeCalonga_Anthonny.git)
+[GitHubPage]( https://guilhermecalonga.github.io/Snake_GuilhermeCalonga_Anthonny/)
 ### Prints Da Tela 
 |  ID |   Primeira Tela | Segunda Tela | 
 |-----|-----------------|--------------|
