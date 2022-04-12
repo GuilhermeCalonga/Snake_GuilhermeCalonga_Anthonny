@@ -13,7 +13,7 @@ O jogo da cobrinha tem como objetivo atingir uma cobra de maior dimensão possí
 |  ID |   Primeira Tela | Segunda Tela | 
 |-----|-----------------|--------------|
 | 1 |  Game Snake | Game Snake
-| 2 | ![image](https://user-images.githubusercontent.com/101648142/161781625-eb0946e6-3bba-44cf-9d18-2958c3e08362.png) | |
+| 2 | ![image]![image]![image](https://user-images.githubusercontent.com/101648142/162983147-664c004a-2b09-404f-8e67-6717d6d7850b.png)| ![image](https://user-images.githubusercontent.com/101648142/162982612-6f1c08f2-2f5c-4d1c-b774-baf9a5de5e11.png)|
 
 #### Função Principal
 ```js:
